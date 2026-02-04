@@ -18,6 +18,11 @@ A robust Breadth-First Search (BFS) web crawler designed to scrape PDF guideline
 ## Installation
 
 1. Clone the repository or download the script.
+
+```bash
+   pip https://github.com/Harshith2014/MoHFW.git
+   ```
+
 2. Install the required packages:
 
    ```bash
